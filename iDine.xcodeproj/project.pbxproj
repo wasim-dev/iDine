@@ -15,6 +15,7 @@
 		C8034FAA2CC8FAC6003B860B /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8034FA62CC8FAC6003B860B /* Helper.swift */; };
 		C8034FAB2CC8FAC6003B860B /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8034FA72CC8FAC6003B860B /* Order.swift */; };
 		C8034FAC2CC8FAC6003B860B /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = C8034FA82CC8FAC6003B860B /* menu.json */; };
+		C8034FC82CC92520003B860B /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8034FC72CC92520003B860B /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		C8034FA62CC8FAC6003B860B /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		C8034FA72CC8FAC6003B860B /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		C8034FA82CC8FAC6003B860B /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
+		C8034FC72CC92520003B860B /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				C8034F972CC8F867003B860B /* iDineApp.swift */,
 				C8034F992CC8F867003B860B /* ContentView.swift */,
+				C8034FC72CC92520003B860B /* ItemRow.swift */,
 				C8034FA62CC8FAC6003B860B /* Helper.swift */,
 				C8034FA52CC8FAC6003B860B /* Menu.swift */,
 				C8034FA72CC8FAC6003B860B /* Order.swift */,
@@ -153,6 +156,7 @@
 				C8034FA92CC8FAC6003B860B /* Menu.swift in Sources */,
 				C8034F9A2CC8F867003B860B /* ContentView.swift in Sources */,
 				C8034FAB2CC8FAC6003B860B /* Order.swift in Sources */,
+				C8034FC82CC92520003B860B /* ItemRow.swift in Sources */,
 				C8034F982CC8F867003B860B /* iDineApp.swift in Sources */,
 				C8034FAA2CC8FAC6003B860B /* Helper.swift in Sources */,
 			);
