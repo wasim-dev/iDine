@@ -62,9 +62,9 @@
 				C8034F972CC8F867003B860B /* iDineApp.swift */,
 				C8034F992CC8F867003B860B /* ContentView.swift */,
 				C8034FA62CC8FAC6003B860B /* Helper.swift */,
-				C8034FA82CC8FAC6003B860B /* menu.json */,
 				C8034FA52CC8FAC6003B860B /* Menu.swift */,
 				C8034FA72CC8FAC6003B860B /* Order.swift */,
+				C8034FA82CC8FAC6003B860B /* menu.json */,
 				C8034F9B2CC8F86A003B860B /* Assets.xcassets */,
 				C8034F9D2CC8F86A003B860B /* Preview Content */,
 			);
